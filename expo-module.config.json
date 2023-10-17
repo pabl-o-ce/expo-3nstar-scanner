@@ -1,0 +1,9 @@
+{
+  "platforms": ["ios", "android", "web"],
+  "ios": {
+    "modules": ["Expo3nstarScannerModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.3nstarscanner.Expo3nstarScannerModule"]
+  }
+}
