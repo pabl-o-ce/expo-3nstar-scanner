@@ -30,7 +30,7 @@
   "homepage": "https://github.com/pabl-o-ce/expo-3nstar-scanner#readme",
   "dependencies": {},
   "devDependencies": {
-    "@types/react": "^18.0.25",
+    "@types/react": "^19.0.0",
     "expo-module-scripts": "^3.0.11",
     "expo-modules-core": "^1.5.11"
   },
